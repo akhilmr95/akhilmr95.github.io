@@ -27,3 +27,7 @@ To build Vue app:
 ```
 npm run build
 ```
+
+**Application**
+
+Once the application loads, click on the board(Home page) to go the kanboan board page and then add tasks under respective columns
